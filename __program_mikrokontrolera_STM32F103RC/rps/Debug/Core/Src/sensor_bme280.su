@@ -1,0 +1,7 @@
+sensor_bme280.c:25:6:clearTable	24	static
+sensor_bme280.c:33:6:BME280Read	40	static
+sensor_bme280.c:51:9:BME280Write	24	static
+sensor_bme280.c:82:9:BME280compensateT	32	static
+sensor_bme280.c:92:10:BME280compensateP	64	static
+sensor_bme280.c:113:10:BME280compensateH	24	static
+sensor_bme280.c:126:6:BME280measurement	192	static

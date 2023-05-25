@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name micro_sd_card_det_zmodyfikowany)(type Legacy)(uri C:/Users/Piotr/PCB/wlasne/micro_sd_card_det_zmodyfikowany.lib)(options "")(descr ""))
+  (lib (name rps_ki-rescue)(type Legacy)(uri ${KIPRJMOD}/rps_ki-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,13 @@
+rps.c:49:6:clearTableChar	24	static
+rps.c:58:6:allLEDsOff	8	static
+rps.c:65:6:testLED	8	static
+rps.c:79:6:writeDateToBackupRegister	8	static
+rps.c:85:9:readMeasurementIntervalFromBackupRegister	8	static
+rps.c:90:6:writeMeasurementIntervalToBackupRegister	24	static
+rps.c:98:9:readDaysPerFileSettingFromBackupRegister	8	static
+rps.c:103:6:writeDaysPerFileSettingToBackupRegister	24	static
+rps.c:112:6:tasksWithReceivedDataFromPC	400	static
+rps.c:248:9:presentWeekInMonth	16	static
+rps.c:283:10:specifyBegininngOfFileName	40	static
+rps.c:328:10:specifyFileName	80	static
+rps.c:369:6:saveDataToSDCard	200	static

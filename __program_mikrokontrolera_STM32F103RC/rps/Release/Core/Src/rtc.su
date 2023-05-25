@@ -1,0 +1,5 @@
+rtc.c:82:6:HAL_RTC_MspInit	16	static
+rtc.c:101:6:HAL_RTC_MspDeInit	0	static
+rtc.c:118:6:setTime	16	static
+rtc.c:131:6:setDate	16	static
+rtc.c:30:6:MX_RTC_Init	16	static

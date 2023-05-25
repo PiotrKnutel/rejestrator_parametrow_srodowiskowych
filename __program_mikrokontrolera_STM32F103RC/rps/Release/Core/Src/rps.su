@@ -1,0 +1,13 @@
+rps.c:39:6:clearTableChar	0	static
+rps.c:46:6:writeDateToBackupRegister	16	static
+rps.c:52:9:readMeasurementIntervalFromBackupRegister	8	static
+rps.c:57:6:writeMeasurementIntervalToBackupRegister	16	static
+rps.c:65:9:readDaysPerFileSettingFromBKUP	8	static
+rps.c:71:6:writeDaysPerFileSettingToBackupRegister	16	static
+rps.c:79:6:writeLastMeasTimeToBKUP	0	static
+rps.c:85:6:readLastMeasTimeFromBKUP	8	static
+rps.c:93:6:tasksWithReceivedDataFromPC	368	static
+rps.c:215:9:presentWeekInMonth	0	static
+rps.c:243:10:specifyBeginingOfFileName	24	static
+rps.c:286:10:specifyFileName	72	static
+rps.c:322:6:saveDataToSDCard	168	static
